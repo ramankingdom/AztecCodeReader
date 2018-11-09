@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzTecReader", "AzTecReader\AzTecReader.csproj", "{E34A77C4-38D2-418B-AD59-BC287F7978CC}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BarcodeApi", "BarcodeApi\BarcodeApi.xproj", "{EC407309-0672-4F93-A9F5-3FA235D61E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34A77C4-38D2-418B-AD59-BC287F7978CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34A77C4-38D2-418B-AD59-BC287F7978CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34A77C4-38D2-418B-AD59-BC287F7978CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34A77C4-38D2-418B-AD59-BC287F7978CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC407309-0672-4F93-A9F5-3FA235D61E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC407309-0672-4F93-A9F5-3FA235D61E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC407309-0672-4F93-A9F5-3FA235D61E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC407309-0672-4F93-A9F5-3FA235D61E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
